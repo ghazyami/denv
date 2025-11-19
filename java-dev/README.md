@@ -9,10 +9,12 @@
   - Quarkus CLI
   - JBang
 - Development packages
+  - ansible-core
   - git
   - gitk
   - git-credential-libsecret
   - lazygit
+  - opentofu
   - helm
   - kubernetes-client
 - Base packages
